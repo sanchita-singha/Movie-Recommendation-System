@@ -132,6 +132,18 @@ Users can:
 
 ---
 
+## Screenshots
+
+### Home Page
+![Home Page](images/home_page.png)
+
+### Recommendation Result
+![Recommendation Result](images/recommendation_result.png)
+
+### GitHub Repository
+![GitHub Repository](images/github_repo.png)
+
+
 ## 🛠️ Tech Stack
 
 | Technology | Purpose |
