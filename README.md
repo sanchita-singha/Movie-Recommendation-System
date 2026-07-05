@@ -257,9 +257,6 @@ Generate them locally by running:
 
 **Sanchita Singha**
 
-B.Sc. Data Science  
-Techno India University
-
 GitHub: https://github.com/sanchita-singha
 
 ---
