@@ -135,10 +135,10 @@ Users can:
 ## Screenshots
 
 ### Home Page
-![Home Page](images/home_page.png)
+![Home Page](images/homepage.png)
 
 ### Recommendation Result
-![Recommendation Result](images/recommendation_result.png)
+![Recommendation Result](images/recommendations.png)
 
 ### GitHub Repository
 ![GitHub Repository](images/github_repo.png)
